@@ -1,9 +1,9 @@
-# *AlzDemMicroglia*
-### Code and Resources for *Human microglia differentially respond to β-amyloid, tau, and combined Alzheimer's disease pathologies in vivo*
+### Code and Resources for 
+*Human microglia differentially respond to β-amyloid, tau, and combined Alzheimer's disease pathologies in vivo*
 
 **Authors:** *Morgan A. Coburn, Ghazaleh Eskandari-Sedighi, Jonathan Hasselmann, Whitney England, Sepideh Kiani Shabestari, Kimiya Mansour, Amanda McQuade, Michael Armen Mgerian, Jean Paul Chadarevian, Christina Tu, Jorge Silva, Jaclyn Beck, Zahara Keulen, Robert C. Spitale, Hayk Davtyan, Mathew Blurton-Jones*  
 **Publication:** *Alzheimer's & Dementia, 2025*  
-**DOI / Link:** * https://doi.org/10.1002/alz.70930*
+**DOI:** https://doi.org/10.1002/alz.70930
 
 ---
 
