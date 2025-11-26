@@ -31,4 +31,9 @@
 **Description:**  
 *Addition of bulk IFNα, IFNβ, and IFNγ module scores for scRNA-Seq data and creation of Figure 7, Panels T and U.*
 
+---
+
+**File:** `PopulationAnalysis_MCoburn_for_paper.R`  
+**Description:**  
+*Code for differential population analysis (DPA).*
 
