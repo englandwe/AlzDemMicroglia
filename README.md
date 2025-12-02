@@ -9,6 +9,18 @@
 
 ## Files
 
+**File:** `Seurat_DatasetQC_V3.R`  
+**Description:**  
+*QC and clustering of scRNA-seq data.*
+
+---
+
+**File:** `Seurat_IntegratedAnalysis_Complete.R`  
+**Description:**  
+*Integrated analysis of scRNA-seq data.*
+
+---
+
 **File:** `Fig3-bdg.R`  
 **Description:**  
 *Determination of cluster marker genes and generation of plots featured in Figure 3, Panels B, D, and G.*
